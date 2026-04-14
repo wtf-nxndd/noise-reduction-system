@@ -1,0 +1,8 @@
+streamlit
+librosa
+noisereduce
+soundfile
+numpy
+matplotlib
+pydub
+ffmpeg-python
