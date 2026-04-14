@@ -1,8 +1,8 @@
 streamlit
-librosa
+librosa==0.10.1
 noisereduce
 soundfile
 numpy
 matplotlib
 pydub
-ffmpeg-python
+scipy
